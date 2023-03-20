@@ -1,5 +1,4 @@
-"State","Number","Motor Vehicle","","Nonmotorist","","Fixed Object","","Object Not Fixed","","Overturn","","Other","","Unknown","","Total Fatal Crashes"
-"","","Percent","Number","Percent","Number","Percent","Number","Percent","Number","Percent","Number","Percent","Number","Percent","Number","Percent"
+"State","Number","Percent(Motor Vehicle)","Number(Motor Vehicle)","Percent(Nonmotorist)","Number(Nonmotorist)","Percent(Fixed Object)","Number(Fixed Object)","Percent(Object Not Fixed)","Number(Object Not Fixed)","Percent(Overturn)","Number(Overturn)","Percent(Other)","Number(Other)","Percent(Unknown)","Number(Unknown)","Total Fatal Crashes(Percent)"
 "","","","","","","","","","","","","","","","",""
 "Alabama","350","41.1","107","12.6","332","39.0","18","2.1","40","4.7","5","0.6","0","0.0","852","100.0"
 "Alaska","23","43.4","14","26.4","6","11.3","1","1.9","9","17.0","0","0.0","0","0.0","53","100.0"
